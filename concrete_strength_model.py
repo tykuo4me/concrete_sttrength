@@ -14,7 +14,7 @@ import joblib
 # 1. Data Loading
 # -------------------------------
 
-df = pd.read_csv('/Users/kuotingyu/Desktop/Concrete_Data.csv')
+df = pd.read_csv('Concrete_Data.csv')
 
 #rename the data for easy analysis later
 rename_dict = {
